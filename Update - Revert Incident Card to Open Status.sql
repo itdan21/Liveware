@@ -1,0 +1,15 @@
+UPDATE Incidents SET PreventionSignOff=0,
+         PreventionNotes=null,
+         PreventionDate=null,
+         PreventionPosition=null,
+         PreventionStaffID=null,
+         PreventionQuestion=null,
+         InvestigationSignOff=0,
+         InvestigationNotes=null,
+         InvestigationDate=null,
+         InvestigationPosition=null,
+         InvestigationStaffID=null,
+         Status='Open',
+		 SignedOff=0,
+		 SignOffID=null
+WHERE ID=2020

@@ -1,0 +1,3 @@
+UPDATE [Xpress User]
+SET Password = '5638d736a34f3e991d9ca0c4987a12a0ef0ff0e83c349b0b5a45891e958d33ad38344bf3f334aaecf4cced83a8557aecac1f8dec21927fc83308491f3dfb4347'
+WHERE Username = 'liveware_super'
